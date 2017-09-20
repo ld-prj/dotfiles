@@ -7,7 +7,9 @@ open() {
 }
 alias open.='open .'
 alias sudo!!='sudo !!'
-
+alias ycm='~/.vim/plugged/YCM-Generator/config_gen.py ./'
+alias dotfiles='cd ~/Documents/projects/dotfiles
+    ./dotfiles.sh'
 alias sumo='cd ~/Documents/projects/sumoBotUNSW2017/slimSumo
     vim slimSumo.ino'
 
